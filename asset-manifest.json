@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8d6acf3a.css",
-    "main.js": "/static/js/main.ddbbcb00.js",
-    "static/js/787.159a7689.chunk.js": "/static/js/787.159a7689.chunk.js",
+    "main.js": "/static/js/main.0f4769bc.js",
+    "static/js/787.f22eee2d.chunk.js": "/static/js/787.f22eee2d.chunk.js",
     "static/media/preview3.PNG": "/static/media/preview3.a89582a4610c362e6839.PNG",
     "static/media/68.png": "/static/media/68.4de8baaefa220efa7c61.png",
     "static/media/48.png": "/static/media/48.38f79e5ea48ace9d2470.png",
@@ -157,11 +157,11 @@
     "static/media/link.PNG": "/static/media/link.7ebc24fb2fab504ce899.PNG",
     "static/media/plusone.webp": "/static/media/plusone.8df2c96864386a6ce65f.webp",
     "static/media/flair.PNG": "/static/media/flair.6ee87d9bd5f66ffd3305.PNG",
-    "static/media/redditlogo.svg": "/static/media/redditlogo.fc188c228ada80f2b8045e59ef9db8bd.svg",
+    "static/media/redditlogo.svg": "/static/media/redditlogo.fc188c228ada80f2b804.svg",
     "static/media/img.PNG": "/static/media/img.1e4254da40a1a612a67f.PNG",
     "static/media/stonks.webp": "/static/media/stonks.796db24f07b1ec8218a4.webp",
-    "static/media/reddit.svg": "/static/media/reddit.5136a6f4476ce5b17aee18afcc83d900.svg",
-    "static/media/interact-svgrepo-com.svg": "/static/media/interact-svgrepo-com.886bc9d04bfd55bc8680.svg",
+    "static/media/reddit.svg": "/static/media/reddit.5136a6f4476ce5b17aee.svg",
+    "static/media/interact-svgrepo-com.svg": "/static/media/interact-svgrepo-com.886bc9d04bfd55bc868026b882e039c7.svg",
     "index.html": "/index.html",
     "static/media/favorite.svg": "/static/media/favorite.bf04132a63a27cd8a486.svg",
     "static/media/apple.svg": "/static/media/apple.cd70d0dd370d574afc3a7064449e2404.svg",
@@ -174,11 +174,11 @@
     "static/media/dropdown.svg": "/static/media/dropdown.c6e655a6d45a12dc0e9b56bdfc54481e.svg",
     "static/media/expand.svg": "/static/media/expand.45a1a7112bf6255f362b.svg",
     "main.8d6acf3a.css.map": "/static/css/main.8d6acf3a.css.map",
-    "main.ddbbcb00.js.map": "/static/js/main.ddbbcb00.js.map",
-    "787.159a7689.chunk.js.map": "/static/js/787.159a7689.chunk.js.map"
+    "main.0f4769bc.js.map": "/static/js/main.0f4769bc.js.map",
+    "787.f22eee2d.chunk.js.map": "/static/js/787.f22eee2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d6acf3a.css",
-    "static/js/main.ddbbcb00.js"
+    "static/js/main.0f4769bc.js"
   ]
 }
