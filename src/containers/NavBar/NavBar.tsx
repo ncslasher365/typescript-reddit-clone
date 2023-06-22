@@ -3,8 +3,7 @@ import React, { FormEventHandler, MouseEventHandler, useEffect, useState } from 
 // Hook Imports
 import { useLocation } from 'react-router-dom';
 // SVG Imports
-import { ReactComponent as RedditLogo } from "../../resources/images/redditlogo.svg";
-import { ReactComponent as Reddit } from "../../resources/images/reddit.svg";
+import { ReactComponent as SiteLogo } from "../../resources/images/interact-svgrepo-com.svg";
 import { ReactComponent as Search } from "../../resources/images/search.svg";
 import { ReactComponent as Expand } from "../../resources/images/expand.svg";
 import { ReactComponent as Star } from "../../resources/images/star.svg";
@@ -140,8 +139,7 @@ export default function NavBar (props: NavBarProps) {
     <div className="navBar" style={{ padding: loginStatus ? "0px 12px 0px 20px" : "0px 20px" }}>
         <div className="logo">
           <div className="logoContainer returnHome" onClick={handleNavigate}>
-            <RedditLogo className="redditLogo" />
-            <Reddit className="reddit" />
+            <SiteLogo className="sitelogo" />
           </div>
 
 
@@ -209,7 +207,7 @@ export default function NavBar (props: NavBarProps) {
         </div>
 
         <div className="search">
-          <input type="text" placeholder="Search Reddit" onChange={handleInputChange} value={searchTerm} className={loginStatus ? "searchBarLogin" : "searchBar"} style={{ paddingLeft: currentSub === undefined ? "46px" : 
+          <input type="text" placeholder="Search on Forum" onChange={handleInputChange} value={searchTerm} className={loginStatus ? "searchBarLogin" : "searchBar"} style={{ paddingLeft: currentSub === undefined ? "46px" : 
                                                                                                                                         currentSub.title === "movies"           ? "174px" : 
                                                                                                                                         currentSub.title === "leagueoflegends"  ? "230px" : 
                                                                                                                                         currentSub.title === "genshinimpact"    ? "218px" : 
